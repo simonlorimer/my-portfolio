@@ -115,10 +115,8 @@ const Timeline = () => {
           );
         })}
       </CarouselButtons>
-      <Button onClick={() => window.location = "#contact"}>Contact Me</Button>
       <SectionDivider />
       <br/>
-      
     </Section>
   );
 };

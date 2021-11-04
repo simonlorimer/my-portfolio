@@ -17,7 +17,7 @@ const Hero = (props) => (
       My interests include programming, technology, music and video games. I am constantly looking for new 
       challenges relating to my interests.
       </SectionText>
-      <a href="/../../documents/CV_SimonLorimer.pdf" download="Simon Lorimer - CV.pdf" >
+      <a href="/../../documents/CV_SimonLorimer.pdf" download="CV - Simon Lorimer.pdf" >
         <Button>Download CV</Button>
       </a>
 
