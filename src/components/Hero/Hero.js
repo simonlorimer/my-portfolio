@@ -17,7 +17,10 @@ const Hero = (props) => (
       My interests include programming, technology, music and video games. I am constantly looking for new 
       challenges relating to my interests.
       </SectionText>
-      <Button onClick={() => window.location = "#contact"}>Contact Me</Button>
+      <a href="/../../documents/CV_SimonLorimer.pdf" download="Simon Lorimer - CV.pdf" >
+        <Button>Download CV</Button>
+      </a>
+
     </LeftSection>
   </Section>
 );
